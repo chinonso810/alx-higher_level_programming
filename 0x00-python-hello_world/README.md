@@ -7,3 +7,6 @@
                    The Python code will be saved in the environment variable $PYCODE
 		
 		2. Wrote a Python script that prints exactly "Programming is like building a multilingual puzzle, followed by a new line.
+
+		3. Completed this source code in order to print the integer stored in the variable number, followed by Battery street, followed by a                    new line.
+
