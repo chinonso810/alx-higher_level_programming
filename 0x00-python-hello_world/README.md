@@ -10,3 +10,5 @@
 
 		3. Completed this source code in order to print the integer stored in the variable number, followed by Battery street, followed by a                    new line.
 
+		4. Completed the source code in order to print the float stored in the variable number with a precision of 2 digits.
+
