@@ -16,3 +16,7 @@
 
 		6. completed a	source code to print Welcome to Holberton School!
 
+		7. Completed this source code 7-edges.py :
+                   word_first_3 contains the first 3 letters of the variable word
+                   word_last_2 contains the last 2 letters of the variable word
+                   middle_word contain the value of the variable word without the first and last letters.
