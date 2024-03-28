@@ -25,3 +25,7 @@
 		  Which is cotained in the variable str.
 		  str = "Python is an interpreted, interactive, object-oriented programming\
 		  language that combines remarkable power with very clear syntax"
+
+		9. Wrote  a Python script that prints “The Zen of Python”, by TimPeters, followed by a new line.
+
+
