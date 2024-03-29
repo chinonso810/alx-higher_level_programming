@@ -21,11 +21,25 @@
                    word_last_2 contains the last 2 letters of the variable word
                    middle_word contain the value of the variable word without the first and last letters.
 
-		8 Complete this source code to print object-oriented programming with Python, followed by a new line.
-		  Which is cotained in the variable str.
-		  str = "Python is an interpreted, interactive, object-oriented programming\
-		  language that combines remarkable power with very clear syntax"
+		8. Complete this source code to print object-oriented programming with Python, followed by a new line.
+		   Which is cotained in the variable str.
+		   str = "Python is an interpreted, interactive, object-oriented programming\
+		   language that combines remarkable power with very clear syntax"
 
 		9. Wrote  a Python script that prints “The Zen of Python”, by TimPeters, followed by a new line.
 
+		10. Wrote a function in C that checks if a singly linked list has a cycle in it
 
+		11. Wrote a Python script that prints exactly and that piece of art is useful - Dora Korpar, 2015-10-19, followed by a new line.
+		    Using the function write from the sys module
+
+		12. Wrote  a script that compiles a Python script file.
+
+		13. Write the Python function def magic_calculation(a, b): that does exactly the same as the following Python bytecode:
+
+		    3           0 LOAD_CONST               1 (98)
+              	    		3 LOAD_FAST                0 (a)
+              	    		6 LOAD_FAST                1 (b)
+              	    		9 BINARY_POWER
+             	    		10 BINARY_ADD
+             	    		11 RETURN_VALUE
