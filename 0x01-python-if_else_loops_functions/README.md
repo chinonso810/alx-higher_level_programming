@@ -13,3 +13,5 @@ TASKS
 
 5.Wrote a program that prints numbers from 0 to 99.
 Numbers were separated by , then followed by a newline.
+
+6.Wrote a  program that prints all possible different combinations of two digits.
