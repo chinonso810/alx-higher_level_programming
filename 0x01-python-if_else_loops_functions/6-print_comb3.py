@@ -4,4 +4,4 @@ for fst_number in range(0, 10):
         if fst_number == 8 and scnd_number == 9:
             print("{}{}".format(fst_number, scnd_number))
         else:
-            print("{}{},".format(fst_number, scnd_number), end='')
+            print("{}{}, ".format(fst_number, scnd_number), end='')
