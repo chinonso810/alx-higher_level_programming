@@ -11,4 +11,5 @@ TASKS
 4. a program that prints all numbers from 0 to 98 in decimal and in hexadecimal.
 
 
-5.  
+5.Wrote a program that prints numbers from 0 to 99.
+Numbers were separated by , then followed by a newline.
