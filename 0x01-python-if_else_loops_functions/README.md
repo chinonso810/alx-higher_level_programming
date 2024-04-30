@@ -18,4 +18,6 @@ Numbers were separated by , then followed by a newline.
 
 7. Wrote a function that checks for lowercase character. using the prototype: def islower(c):
 
-8. 
+8. Wrote a function that checks for uppercase character. using the prototype: def uppercase(str):
+
+9.  
