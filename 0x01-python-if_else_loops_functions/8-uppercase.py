@@ -9,7 +9,5 @@ def uppercase(str):
             # Append the uppercase character to the result string
             uppercase_str += uppercase_char
         else:
-            # if the character is uppercase or not a char print
             uppercase_str += char
-    # print the uppercases with .format 
     print("{}".format(uppercase_str))
