@@ -13,4 +13,4 @@ def uppercase(str):
             uppercase_str += char
 
     # Print the entire uppercase string followed by a new line using string formatting
-    print("{}".format(uppercase_str)
+    print("{}".format(uppercase_str))
