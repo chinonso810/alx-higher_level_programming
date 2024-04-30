@@ -12,5 +12,6 @@ def uppercase(str):
             # If the character is already uppercase or not a letter, append it to the result string
             uppercase_str += char
 
-    # Print the entire uppercase string followed by a new line
-    print(uppercase_str + "\n")
+    # Print the entire uppercase string followed by a new line using string formatting
+    print("{}".format(uppercase_str))
+    print()  # Print an empty line
